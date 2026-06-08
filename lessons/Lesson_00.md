@@ -68,7 +68,7 @@ Here's the map. Three steps, in this order.
 
 **1. Your Second Brain.** You load yourself and your business into Claude — once. Who you are, how you talk, what you sell, who you serve. From then on it knows you. No more re-explaining yourself every morning like you're talking to a stranger.
 
-**2. Your AI Dream Team.** Then you hire the employees. Content, marketing, sales, operations — real roles doing real work, in your voice. You stop managing a to-do list. You hand work to a team.
+**2. Your AI Dream Team.** Then you hire the employees. Content, marketing, sales, operations — posts written, DMs answered, invoices chased, in your voice. You stop managing a to-do list. You hand work to a team.
 
 **3. Your One-Person Company.** Finally it all runs from your phone. You talk, it works. You stop being the person who does everything and become the person who *decides* everything. About an hour a day.
 
@@ -78,19 +78,17 @@ Brain, team, company. That's the map — and you'll have something working in th
 
 ### Beat 5 — Proof (this is real, and not just me)
 
-I won't show you fake screenshots. Here are real numbers — mine first.
+I won't show you fake screenshots. Here are real numbers — mine first, the small kind.
 
 We used to pay a designer $500 to $1,000 a month. Explain the task three times, wait four days, get back the wrong thing, explain again. My design employee does that work on the first pass — and reads what I *mean* better than most people did. Three months in, we'd kept over **$3,000** in the business. From one role.
 
-My ad employee built the creatives, tested them, ran the campaigns. Eight months of that brought in about **$160,000** on cold traffic in the US. The carousels we make brought another **$5,000-plus** in organic sales on top. This isn't a story I read somewhere. It's a normal Tuesday now.
-
-And here's what a normal Tuesday actually feels like. You take a voice note on your morning walk. By the time you're home, a week of posts is written — in your voice. A lead slides into your DMs while you're with a client; your DM Closer answers, qualifies them, books the call — 60 seconds, you never touched your phone. At 7am your AI already checked your numbers and texted you the one thing that needs *you* today. You read it over coffee. That's your office now.
+And here's what a normal Tuesday feels like now. You take a voice note on your morning walk. By the time you're home, a week of posts is written — in your voice. A lead slides into your DMs while you're with a client; your DM Closer answers, qualifies them, books the call — 60 seconds, you never touched your phone. At 7am your AI already checked your numbers and texted you the one thing that needs *you* today. You read it over coffee. That's your office now.
 
 The first time mine wrote five posts before my coffee was cold, I just sat there. Five posts I didn't write — in my voice. That's the moment it clicked for me. That's the part that still gets me.
 
-And in case you're wondering if I just got lucky: a guy named Matthew Gallagher built a company almost alone — AI wrote the code, handled the calls, did the work nobody wants to do by hand. First-year revenue, checked by The New York Times: **$401 million.** Sam Altman, who runs OpenAI, had been saying for years a one-person, billion-dollar company was coming. People laughed. Then Matthew showed up.
+It does scale past the small stuff — my ad employee ran cold US traffic to about **$160,000** over eight months, and the carousels we make brought another **$5,000-plus** on top. And no, I didn't just get lucky: last year one founder, Matthew Gallagher, ran a company almost single-handedly on AI, and the number that went around was **$401 million** in his first year. Sam Altman had been saying for years that a one-person, billion-dollar company was coming. People laughed. Then it showed up.
 
-**I'm not promising you $400 million.** That would be a lie, and you'd close this video on the spot — good instinct, keep it. I'm showing you that the exact tools he used are open to you, today. At your level, with your business, an extra one or ten thousand a month isn't a fantasy. That's what we build, together, on real examples.
+**Now — I'm not promising you $400 million.** That would be a lie, and you'd close this video on the spot. Good instinct. Keep it. The point isn't his number, or even mine. It's that the exact tools are open to you, today. At your level, with your business, an extra one or ten thousand a month isn't a fantasy. That's what we build together — on real examples I tested myself.
 
 ---
 
@@ -98,11 +96,11 @@ And in case you're wondering if I just got lucky: a guy named Matthew Gallagher 
 
 Before we go, one thing I need you to actually hear.
 
-Almost every skill you were told to grind on — writing copy, building offers, running ads — AI now does in seconds. So those skills are getting cheaper by the month. That's not doom. It's just true.
+Almost every skill you were told to grind on — copy, offers, ads — AI now does in seconds. A caption that used to cost you 20 minutes? Thirty seconds now. So those skills are getting cheaper by the month.
 
-One skill goes the other way. **Up.** The skill of building AI employees that do the work *for* you. That's the one that decides who pulls ahead and who quietly gets pushed off the market. And right now most of your competitors haven't figured it out yet. That gap is your head start.
+One skill goes the other way. **Up.** The skill of building the team that does the work *for* you. Picture two coaches in your niche: one ships a week of posts from a voice note on her walk, the other's still staring at a blank screen at midnight. Same hours in the day. That gap is the whole game now — and most of your competitors are still at the blank screen. That's your head start.
 
-So here's my ask. Treat this like it matters — because for the next few years of your business, it might matter more than anything else you do. Block the time this weekend. Protect it like a client call you can't move. Because this is the client that pays you back in evenings.
+So here's my ask. Block the time this weekend. Protect it like a client call you can't move — because this is the client that pays you back in evenings.
 
 ---
 
@@ -110,7 +108,7 @@ So here's my ask. Treat this like it matters — because for the next few years 
 
 I know the fear, because it's the one that made me quit a course once: *"This is going to be too technical and I'll feel stupid."*
 
-It won't. **If you can record a voice note, you can do this.** No code. No API keys. No "prompt engineering." Every single time something looks scary, I'll show you exactly where to click — and where it can trip you up, the fix is already in the lesson. You won't be left guessing.
+It won't. **If you can record a voice note, you can do this.** No code. No API keys. No "prompt engineering." Every single time something looks scary, I'll show you exactly where to click — and where it can trip you up, the fix is already sitting right there in the step. No googling in a panic at midnight.
 
 Two more honest ones, so the skeptic in you can relax:
 
@@ -126,7 +124,7 @@ You didn't build an asset tonight. You got something you walk in with tomorrow t
 
 You know the three steps — Brain, team, company. You know the one line that runs the whole thing: *AI tells you how → AI just does it.* And you know the bet: one skill going up while the rest get cheap, and you're early enough to use it.
 
-That's not nothing. That's the part most people never get straight.
+Tomorrow you'll look at your to-do list and see something new — not tasks, but open roles you're about to fill. Most people never get that far.
 
 ---
 
@@ -210,9 +208,9 @@ Visual: Three small scenes: morning walk + waveform → posts; a DM thread closi
 Speaker notes: This is what the team running actually feels like. That's your office now.
 
 [Slide 13] — Beat 5 / Not just me
-On-slide text: $401M. Two people. One year. (verified by The New York Times)
+On-slide text: $401M, year one. One founder, almost solo.
 Visual: Black slide, huge number. Small line: "Sam Altman called it in 2024."
-Speaker notes: Matthew Gallagher, almost alone, AI doing the work. I'm not promising you that — I'm showing you the tools are open.
+Speaker notes: Matthew Gallagher ran it almost single-handedly, AI doing the work. I'm not promising you that — the point is the tools are open to you, today.
 
 [Slide 14] — Beat 6 / The meta-skill (stakes)
 On-slide text: Every other skill is getting cheaper. One goes up.
