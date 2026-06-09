@@ -2,13 +2,13 @@
 
 *Second Brain · watch-along · ~8 min · micro-action: 3 bullets in the chat*
 
-> Module opener for **Second Brain**. 9-beat spine (`03` §5) runs under the surface — concept/manifesto lesson, beats invisible. Calibrated to north-star `11_ЭТАЛОН_РАЗБОР.md`. See brief `briefs/Lesson_01.md`. (v2 — reworked against both lenses: density trimmed, first-person voice restored, instant-win added, bullet-3 example added.)
+> Module opener for **Second Brain**. 9-beat spine (`03` §5) runs under the surface — concept/manifesto lesson, beats invisible. Calibrated to north-star `11_ЭТАЛОН_РАЗБОР.md`. See brief `briefs/Lesson_01.md`. (v3 — cosmetic polish: cheeky shared-pain line, last mid-restatement trimmed, crisper close.)
 
 ---
 
 ## LAYER 1 — TEXT (lesson / video script)
 
-Let me guess how your last chat with AI went. You typed "write me a post about my product," hit enter, and got back… something. Smooth, polished, and so generic it could belong to anyone selling anything. You closed the tab and decided AI is overrated.
+Let me guess how your last chat with AI went. You typed "write me a post about my product," hit enter, and got back… something. Smooth, polished, and so generic it could belong to anyone — a yoga studio, a crypto bro, a guy selling socks. You closed the tab and decided AI is overrated.
 
 Or maybe you're the opposite — you've gotten good at this, and you've got brilliant prompts saved… somewhere across your Notes app, an old doc, a screenshot you can't find. Either way, every new chat you're starting over.
 
@@ -25,13 +25,13 @@ The AI isn't a mind reader. It's a mirror. Feed it nothing, it reflects nothing.
 Here's the rule that changes everything:
 **A model is only as good as the context you give it.**
 
-Same AI. Same question. Two completely different worlds, depending on what you load in first. Type "write a post" cold, you get vanilla. Spend two minutes first — here's my product, here's my customer, here's my tone, here are three posts I love — and the next answer reads like you on your best day: the caption you'd write with a clear head, not at 11pm with one eye open. The first time mine came back sounding like me, I checked I hadn't written it myself.
+Same AI. Same question. Type "write a post" cold, you get vanilla. Spend two minutes first — here's my product, here's my customer, here's my tone, here are three posts I love — and the next answer reads like you on your best day: the caption you'd write with a clear head, not at 11pm with one eye open. The first time mine came back sounding like me, I checked I hadn't written it myself.
 
 (And this isn't a Claude thing — the same rule runs ChatGPT, Gemini, any of them. We just build it here because today Claude's the easiest place to make it stick.)
 
 So why does everyone skip it? Because typing all that context, every single time, is exhausting. By the third chat you just… don't. I used to re-explain my whole business so often I could've recited it in my sleep.
 
-That's what this module fixes. You don't re-brief a human employee every morning — they already know your business. Same with AI: we load your world in once, save it, and your team just knows from then on. No "here's my business, again" before every task.
+That's what this module fixes. You don't re-brief a human employee every morning — they already know your business. Same with AI: load your world in once, save it, and your team just knows. No "here's my business, again" before every task.
 
 **So how do you load a whole business without it turning into a mess?** You sort it into two folders. Not ten. Two.
 
@@ -49,9 +49,9 @@ Three — one phrase you say all the time (like "let's keep it stupid-simple" or
 
 Three bullets. Thirty seconds. Don't polish them. Then ask it anything about your business — and watch the answer shift. That's the whole rule, working in thirty seconds.
 
-Those three lines are the seed of your two folders — product and customer go to Business, the phrase that sounds like you goes to AI Clone. Next lesson we open folder one, your AI Clone, and turn them into the file your whole team reads before every single task.
+Those three lines are the seed of your two folders — product and customer go to Business, the phrase that sounds like you goes to AI Clone. Next lesson we crack open folder one and turn them into the one file your whole team reads before every single task.
 
-Let's go build your second brain.
+That's your second brain. Let's go build it.
 
 ---
 
@@ -63,7 +63,7 @@ Let's go build your second brain.
 [Slide 1] — Cold open / the generic answer
 On-slide text: "Write me a post." → something that could belong to anyone.
 Visual: A chat bubble with a bland, polished post; a hand closing the tab.
-Speaker notes: Smooth, generic, forgettable. You closed it and decided AI is overrated.
+Speaker notes: So generic it could belong to a yoga studio, a crypto bro, or a guy selling socks. You closed it and decided AI is overrated.
 
 [Slide 2] — The pro's version of the same pain
 On-slide text: Great prompts. Saved… somewhere. Never where you left them.
@@ -136,7 +136,7 @@ Visual: The 3 bullets splitting into the two folders from Slide 12.
 Speaker notes: Product and customer go to Business; the phrase goes to AI Clone. That's where we start next.
 
 [Slide 16] — Close
-On-slide text: Let's go build your second brain.
+On-slide text: That's your second brain. Let's go build it.
 Visual: A glowing "second brain" filing cabinet with the two folders inside.
 Speaker notes: This is the foundation your whole team stands on.
 ```
