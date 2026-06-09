@@ -2,7 +2,7 @@
 
 *Second Brain · watch-along · ~8 min · micro-action: 3 bullets in the chat*
 
-> Module opener for **Second Brain**. 9-beat spine (`03` §5) runs under the surface — concept/manifesto lesson, beats invisible. Calibrated to north-star `11_ЭТАЛОН_РАЗБОР.md`. See brief `briefs/Lesson_01.md`. (v3 — cosmetic polish: cheeky shared-pain line, last mid-restatement trimmed, crisper close.)
+> Module opener for **Second Brain**. 9-beat spine (`03` §5) runs under the surface — concept/manifesto lesson, beats invisible. Calibrated to north-star `11_ЭТАЛОН_РАЗБОР.md`. See brief `briefs/Lesson_01.md`. (v4 — owner feedback: end task reworked to pass Task Utility (the 3 lines are saved and become the first lines of the AI Clone next lesson); multi-twist sentences broken into simple ones.)
 
 ---
 
@@ -10,7 +10,7 @@
 
 Let me guess how your last chat with AI went. You typed "write me a post about my product," hit enter, and got back… something. Smooth, polished, and so generic it could belong to anyone — a yoga studio, a crypto bro, a guy selling socks. You closed the tab and decided AI is overrated.
 
-Or maybe you're the opposite — you've gotten good at this, and you've got brilliant prompts saved… somewhere across your Notes app, an old doc, a screenshot you can't find. Either way, every new chat you're starting over.
+Or maybe you're the opposite. You've gotten good at this — you write the prompts that actually work. But they're scattered everywhere. Your Notes app. An old doc. A screenshot you can't find. Either way, every new chat, you start over.
 
 Beginner or pro, it's the same tax: you keep paying for context with your time. Sound familiar?
 
@@ -18,14 +18,14 @@ Here's what actually happened. You didn't hire a bad employee. You hired a brill
 
 Picture it. A world-class assistant shows up day one. Knows marketing, writing, design — all of it. You say "write a post," and walk out of the room. He's never seen your product. Doesn't know your customer. Has no idea how you talk. So he writes something safe and average. Of course he does. It's the only thing he can do with nothing to go on.
 
-The difference between a useless answer and a brilliant one isn't the model. It's the context. Context is everything you know about your business that lives in your head and never makes it into the chat — who your customer is, what your product actually does, how you sound, what you'd never say.
+The difference between a useless answer and a brilliant one isn't the model. It's the context. Context is everything you know about your business that never makes it into the chat. Who your customer is. What your product actually does. How you sound. What you'd never say.
 
 The AI isn't a mind reader. It's a mirror. Feed it nothing, it reflects nothing. Feed it your world, and it reflects your world back — sharper than you'd have written it yourself.
 
 Here's the rule that changes everything:
 **A model is only as good as the context you give it.**
 
-Same AI. Same question. Type "write a post" cold, you get vanilla. Spend two minutes first — here's my product, here's my customer, here's my tone, here are three posts I love — and the next answer reads like you on your best day: the caption you'd write with a clear head, not at 11pm with one eye open. The first time mine came back sounding like me, I checked I hadn't written it myself.
+Same AI. Same question. Type "write a post" cold, you get vanilla. Now spend two minutes first. Tell it: here's my product, here's my customer, here's my tone, here are three posts I love. The next answer reads like you on your best day — the caption you'd write with a clear head, not at 11pm with one eye open. The first time mine came back sounding like me, I checked I hadn't written it myself.
 
 (And this isn't a Claude thing — the same rule runs ChatGPT, Gemini, any of them. We just build it here because today Claude's the easiest place to make it stick.)
 
@@ -42,14 +42,16 @@ Who you are first, what you do second — same direction every time. That's the 
 
 And you're not starting from a blank page. The AI employees in this course aren't theory — I run them myself every day. One builds scroll-stopping carousels. One reads a market cold and tells me who I'm actually selling to. The same ones that have pulled in real clients and hundreds of thousands of views. You get them as ready-made files you drop straight into your AI — Skills you'll plug in a few lessons from now. You start from proven, not from zero.
 
-So before the next lesson, plant the seed. Open your AI — Claude, or whatever you've got — and type three bullets, right into the chat:
+So before the next lesson, do one small thing. Write three lines — and keep them somewhere you'll find them:
 One — what you sell, in one sentence.
 Two — who buys it.
-Three — one phrase you say all the time (like "let's keep it stupid-simple" or "you've got this").
+Three — one phrase you say all the time (like "let's keep it simple" or "you've got this").
 
-Three bullets. Thirty seconds. Don't polish them. Then ask it anything about your business — and watch the answer shift. That's the whole rule, working in thirty seconds.
+Thirty seconds. Don't polish them.
 
-Those three lines are the seed of your two folders — product and customer go to Business, the phrase that sounds like you goes to AI Clone. Next lesson we crack open folder one and turn them into the one file your whole team reads before every single task.
+Here's why it's worth it. Paste those three lines above your next question to any AI. Watch the answer sharpen. That's the whole rule, working today.
+
+Then keep them. These three lines are the seed of your second brain. Next lesson we open folder one, your AI Clone. Your phrase becomes the first thing your whole team reads before every task. You start from these — not a blank page.
 
 That's your second brain. Let's go build it.
 
@@ -126,14 +128,14 @@ Visual: Two ready-made "Skill" files: a carousel builder, a market reader.
 Speaker notes: I run these myself — real clients, hundreds of thousands of views. You get them as files you drop in. Not from zero.
 
 [Slide 14] — The micro-action + instant win
-On-slide text: Type 3 bullets → then ask it anything → watch the answer shift.
-Visual: A chat box with three blank bullets, then a visibly more personal reply.
-Speaker notes: What you sell · who buys it · a phrase that sounds like you (e.g. "let's keep it simple"). The whole rule, working in thirty seconds.
+On-slide text: Write 3 lines. Paste them above your next question. Watch it sharpen.
+Visual: A note with three lines → pasted above a chat question → a visibly more personal reply.
+Speaker notes: What you sell · who buys it · a phrase that sounds like you. Thirty seconds. The whole rule, working today.
 
-[Slide 15] — The seed → the folders
-On-slide text: Those three lines are the seed. Next: we open folder one — your AI Clone.
-Visual: The 3 bullets splitting into the two folders from Slide 12.
-Speaker notes: Product and customer go to Business; the phrase goes to AI Clone. That's where we start next.
+[Slide 15] — Keep them → the seed
+On-slide text: Save them. Next lesson, your phrase is the first line of your AI Clone.
+Visual: The 3 lines saved to a note, then sliding into the AI Clone folder.
+Speaker notes: You start the next lesson from these — not a blank page.
 
 [Slide 16] — Close
 On-slide text: That's your second brain. Let's go build it.
